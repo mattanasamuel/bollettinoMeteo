@@ -61,57 +61,140 @@ async function getRemoteData() {
     {
       let div = document.createElement("div")
       contenitore.appendChild(div)
+
+      let immagine = document.createElement("img")
+      immagine.src = previsione.SIMBOLO.__text
+      immagine.style = "float:top;width:42px;height:42px;" //aggiunta della posizione e dimensione foto
+      div.appendChild(immagine)
+
       let data = document.createElement("h4")
       data.textContent = previsione._data
       div.appendChild(data)
       console.log(data)
-      
-      let immagine = document.createElement("img")
-      immagine.src = previsione.SIMBOLO.__text
-      div.appendChild(immagine)
+
       
 
       let tabella = document.createElement("table")
       let tabella_tbody = document.createElement("tbody")
       tabella.appendChild(tabella_tbody)
       tabella.classList.add("table-striped")
-      
-      let tabella_tbody_cielo = document.createElement("th")
-      let tabella_tbody_cielo_value = document.createElement("td")
-      tabella_tbody_cielo.textContent = "CIELO"
-      tabella_tbody_cielo_value.textContent = previsione.CIELO.__text
-      tabella_tbody.appendChild(tabella_tbody_cielo)
-      tabella_tbody.appendChild(tabella_tbody_cielo_value)
-
-      let tabella_tbody_precipitazione = document.createElement("th")
-      let tabella_tbody_precipitazione_value = document.createElement("td")
-      tabella_tbody_precipitazione.textContent = "CIELO"
-      tabella_tbody_precipitazione_value.textContent = previsione.CIELO.__text
-      tabella_tbody.appendChild(tabella_tbody_precipitazione)
-      tabella_tbody.appendChild(tabella_tbody_precipitazione_value)
 
 
-      div.appendChild(tabella)
-      
-      
-
-
-
-
-      
-      /*
-      let section = document.createElement("section")
-      contenitore.appendChild(section)
-      let tabella = document.createElement("table")
-      section.appendChild(tabella);
-      for(let parametro of previsione)
+      if(Object.hasOwn(previsione, 'ATTENDIBILITA'))
       {
-        let tabella_tr = document.createElement("tr")
-        let tabella_tr_th = document.createElement("th")
-        tabella_tr_th.textContent = parametro._title
+        if(Object.hasOwn(previsione.ATTENDIBILITA, '__text'))
+          {
+            let tr = document.createElement("tr")
+            tabella_tbody.appendChild(tr)
+    
+            let th = document.createElement("th")
+            th.textContent = "attendibilità: "
+            tr.appendChild(th)
+    
+            let td = document.createElement("td")
+            td.textContent = previsione.ATTENDIBILITA.__text
+            tr.appendChild(td)
+          }
+      }
+
+
+
+
+
+
+      if(Object.hasOwn(previsione, 'CIELO'))
+      {
+        if(Object.hasOwn(previsione.CIELO, '__text'))
+          {
+            let tr = document.createElement("tr")
+            tabella_tbody.appendChild(tr)
+    
+            let th = document.createElement("th")
+            th.textContent = "cielo: "
+            tr.appendChild(th)
+    
+            let td = document.createElement("td")
+            td.textContent = previsione.CIELO.__text
+            tr.appendChild(td)
+          }
+      }
+
+        if(Object.hasOwn(previsione.PRECIPITAZIONI, '__text'))
+          {
+            let tr = document.createElement("tr")
+            tabella_tbody.appendChild(tr)
+    
+            let th = document.createElement("th")
+            th.textContent = "precipitazioni: "
+            tr.appendChild(th)
+    
+            let td = document.createElement("td")
+            td.textContent = previsione.PRECIPITAZIONI.__text
+            tr.appendChild(td)
+          }
+
+          if(Object.hasOwn(previsione.PROBPREC, '__text'))
+            {
+              let tr = document.createElement("tr")
+              tabella_tbody.appendChild(tr)
+      
+              let th = document.createElement("th")
+              th.textContent = "probabilità pioggia: "
+              tr.appendChild(th)
+      
+              let td = document.createElement("td")
+              td.textContent = previsione.PROBPREC.__text
+              tr.appendChild(td)
+            }
+
+            if(Object.hasOwn(previsione.QNEVE, '__text'))
+              {
+                let tr = document.createElement("tr")
+                tabella_tbody.appendChild(tr)
+        
+                let th = document.createElement("th")
+                th.textContent = "neve prevista: "
+                tr.appendChild(th)
+        
+                let td = document.createElement("td")
+                td.textContent = previsione.QNEVE.__text
+                tr.appendChild(td)
+              }
+
         
 
-      }*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      //Object.hasOwn(object, ‘prop’)
+
+      console.log(previsione)
+      
+      div.appendChild(tabella)
+
+      }
+
 
 
 
@@ -121,7 +204,7 @@ async function getRemoteData() {
 
 
     }
-  }
+  
 
 
 
