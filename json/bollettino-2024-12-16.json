@@ -1,0 +1,4770 @@
+{
+	"previsioni": {
+		"data_emissione": {
+			"_date": "16/12/2024 alle 13:00"
+		},
+		"data_aggiornamento": {
+			"_date": "16/12 alle 16.00"
+		},
+		"meteogrammi": {
+			"meteogramma": [
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "max 7 C"
+							},
+							"TEMPERATURA3000": {
+								"_title": "Temperatura 3000m",
+								"_type": "text",
+								"__text": "max 1 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a1.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "In prevalenza sereno"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "max 6 C"
+							},
+							"TEMPERATURA3000": {
+								"_title": "Temperatura 3000m",
+								"_type": "text",
+								"__text": "max -2 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Ottima"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso per velature"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "max 8 C"
+							},
+							"TEMPERATURA3000": {
+								"_title": "Temperatura 3000m",
+								"_type": "text",
+								"__text": "max 1 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Ottima"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso per velature"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "max 5 C"
+							},
+							"TEMPERATURA3000": {
+								"_title": "Temperatura 3000m",
+								"_type": "text",
+								"__text": "max 0 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in diminuzione"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "max 7 C"
+							},
+							"TEMPERATURA3000": {
+								"_title": "Temperatura 3000m",
+								"_type": "text",
+								"__text": "max 1 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/e2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in aumento"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Qualche pioggia verso sera"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text",
+								"__text": "Oltre i 1000-1300 m"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/e2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Deboli"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text",
+								"__text": "Oltre i 1000-1300 m"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "1",
+					"_name": "Dolomiti Nord-Est"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "max 7 C"
+							},
+							"TEMPERATURA3000": {
+								"_title": "Temperatura 3000m",
+								"_type": "text",
+								"__text": "max 1 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a1.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "In prevalenza sereno"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "max 6 C"
+							},
+							"TEMPERATURA3000": {
+								"_title": "Temperatura 3000m",
+								"_type": "text",
+								"__text": "max -2 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Ottima"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso per velature"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "max 8 C"
+							},
+							"TEMPERATURA3000": {
+								"_title": "Temperatura 3000m",
+								"_type": "text",
+								"__text": "max 1 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Ottima"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso per velature"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "max 5 C"
+							},
+							"TEMPERATURA3000": {
+								"_title": "Temperatura 3000m",
+								"_type": "text",
+								"__text": "max 0 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in diminuzione"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "max 7 C"
+							},
+							"TEMPERATURA3000": {
+								"_title": "Temperatura 3000m",
+								"_type": "text",
+								"__text": "max 1 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/e2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in aumento"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Qualche pioggia verso sera"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text",
+								"__text": "Oltre i 1000-1300 m"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/e2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Deboli"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text",
+								"__text": "Oltre i 1000-1300 m"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "2",
+					"_name": "Dolomiti Sud-Ovest"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "11 C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a1.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "In prevalenza sereno"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "8 C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "7 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Ottima"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso per velature"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "10 C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Ottima"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso per velature"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "5 C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "5 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in diminuzione"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/e2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in aumento"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Qualche pioggia verso sera"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "60%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text",
+								"__text": "Oltre i 1300-1500 m"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/e2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Deboli"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "60%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text",
+								"__text": "Oltre i 1200-1500 m"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "3",
+					"_name": "Belluno e Prealpi orientali"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "11 C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a1.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "In prevalenza sereno"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "8 C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "7 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Ottima"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso per velature"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "10 C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Ottima"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso per velature"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "5 C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "5 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in diminuzione"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/e2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in aumento"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Qualche pioggia verso sera"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "60%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text",
+								"__text": "Oltre i 1300-1500 m"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/e2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Deboli"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "60%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text",
+								"__text": "Oltre i 1200-1500 m"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "4",
+					"_name": "Prealpi centrali"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 6/8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max -2/0 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 6/8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max -2/0 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 7/9 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Molto nuvoloso o coperto"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Piogge moderate"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "70%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nubi in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Modeste sparse"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "5",
+					"_name": "Pedemontana orientale"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 6/8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max -1/1 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 7/9 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max -1/1 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 7/9 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Molto nuvoloso o coperto"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Piogge moderate"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "70%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nubi in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Modeste sparse"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "6",
+					"_name": "Treviso e pianura orientale"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 4/6 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 0/2 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 8/10 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 1/3 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 8/10 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Molto nuvoloso o coperto"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Piogge moderate"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "70%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nubi in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Modeste sparse"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "7",
+					"_name": "Veneziano orientale"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "11 C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a1.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "In prevalenza sereno"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "8 C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "7 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Ottima"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso per velature"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "10 C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Ottima"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso per velature"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "5 C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "5 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in diminuzione"
+							},
+							"TEMPERATURA1500": {
+								"_title": "Temperatura 1500m",
+								"_type": "text",
+								"__text": "C"
+							},
+							"TEMPERATURA2000": {
+								"_title": "Temperatura 2000m",
+								"_type": "text",
+								"__text": "C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/e2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in aumento"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Qualche pioggia verso sera"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "60%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text",
+								"__text": "Oltre i 1300-1500 m"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/e2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nuvolosità in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Deboli"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "60%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text",
+								"__text": "Oltre i 1200-1500 m"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "8",
+					"_name": "Prealpi occidentali"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a1.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 6/8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max -2/0 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 6/8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 0/2 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 6/8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Molto nuvoloso o coperto"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Piogge moderate"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "70%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nubi in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Modeste sparse"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "9",
+					"_name": "Vicenza e pedemontana"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f1.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 4/6 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max -1/1 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 5/7 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 0/2 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 6/8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Molto nuvoloso o coperto"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Piogge moderate"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "70%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nubi in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Modeste sparse"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "10",
+					"_name": "Padova e pianura centrale"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 4/6 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da ovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f4.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 0/2 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 6/8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 1/3 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 6/8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Molto nuvoloso o coperto"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Piogge moderate"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "70%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nubi in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Modeste sparse"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "11",
+					"_name": "Venezia e laguna"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f4.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 2/4 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da ovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f4.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max -1/1 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 7/9 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 0/2 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 7/9 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Molto nuvoloso o coperto"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Piogge moderate"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "70%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nubi in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Modeste sparse"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "12",
+					"_name": "Delta del Po"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 3/5 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f4.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max -2/0 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 7/9 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max -1/1 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Parzialmente nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 7/9 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Molto nuvoloso o coperto"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Piogge moderate"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "70%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nubi in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Modeste sparse"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "13",
+					"_name": "Rovigo e pianura meridionale"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a1.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 6/8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max -2/0 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 6/8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 1/3 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 7/9 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Molto nuvoloso o coperto"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Piogge moderate"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "70%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nubi in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Modeste sparse"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "14",
+					"_name": "Verona e pedemontana"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a1.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 9/11 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 1/3 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 8/10 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da sud"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 3/5 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 9/11 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Molto nuvoloso o coperto"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Piogge moderate"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "70%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nubi in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Modeste sparse"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "15",
+					"_name": "Area del Garda"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 5/7 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f4.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 0/2 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/a2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 8/10 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 1/3 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 8/10 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Molto nuvoloso o coperto"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Piogge moderate"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "70%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nubi in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Modeste sparse"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "16",
+					"_name": "Litorale nord"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 3/5 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da ovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f4.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 0/2 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 6/8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 1/3 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 6/8 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Molto nuvoloso o coperto"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Piogge moderate"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "70%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nubi in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Modeste sparse"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "17",
+					"_name": "Litorale centrale"
+				},
+				{
+					"scadenza": [
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f4.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 3/5 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da ovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text"
+							},
+							"_data": "lun 16 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f4.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Sereno o poco nuvoloso con foschie/nebbie nelle ore più fredde"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max -1/1 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Poco nuvoloso"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 7/9 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Deboli da nordovest"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mar 17 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 0/2 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre notte/mattina"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/f3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Foschie/nebbie/nubi basse in parziale dissolvimento"
+							},
+							"TEMPERATURA": {
+								"_title": "Temperatura",
+								"_type": "text",
+								"__text": "max 7/9 C"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Assenti"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "0%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"VENTO": {
+								"_title": "Vento",
+								"_type": "text",
+								"__text": "Variabili"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Buona"
+							},
+							"_data": "mer 18 dicembre pomeriggio/sera"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b3.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Molto nuvoloso o coperto"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Piogge moderate"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "70%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "gio 19 dicembre"
+						},
+						{
+							"SIMBOLO": {
+								"_type": "image",
+								"__text": "images/meteosymbols/b2.png"
+							},
+							"CIELO": {
+								"_title": "Cielo",
+								"_type": "text",
+								"__text": "Nubi in diminuzione"
+							},
+							"PRECIPITAZIONI": {
+								"_title": "Precipitazioni",
+								"_type": "text",
+								"__text": "Modeste sparse"
+							},
+							"PROBPREC": {
+								"_title": "Probabilita' precipitazione",
+								"_type": "text",
+								"__text": "50%"
+							},
+							"QNEVE": {
+								"_title": "Quota neve",
+								"_type": "text"
+							},
+							"ATTENDIBILITA": {
+								"_title": "Attendibilita'",
+								"_type": "text",
+								"__text": "Discreta"
+							},
+							"_data": "ven 20 dicembre"
+						}
+					],
+					"_zoneid": "18",
+					"_name": "Litorale sud"
+				}
+			]
+		}
+	}
+}
