@@ -4,10 +4,11 @@ const elenco = document.getElementById("elenco");
 const selZona = document.getElementById("sel-zona");
 var requestURL = "json/bollettino-2024-12-16.json";
 selZona.addEventListener("change", getRemoteData);
-var selectZona = document.getElementById("sel-zona")
 var opzioniZone = []
 var bollettiniZone = []
 var contenitore = document.getElementById("previsioni")
+var intestazione = document.getElementById("intestazione")
+var 
 
 
 
@@ -42,7 +43,7 @@ async function getRemoteData() {
   {
     for(let bollettino of forecast.previsioni.meteogrammi.meteogramma)
     {
-      if(bollettino._zoneid == selectZona.value)
+      if(bollettino._zoneid == selZona.value)
       {
         console.log(bollettino)
         createSection(bollettino)
@@ -160,33 +161,6 @@ async function getRemoteData() {
                 td.textContent = previsione.QNEVE.__text
                 tr.appendChild(td)
               }
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       //Object.hasOwn(object, ‘prop’)
 
       console.log(previsione)
@@ -194,15 +168,6 @@ async function getRemoteData() {
       div.appendChild(tabella)
 
       }
-
-
-
-
-
-
-
-
-
     }
   
 
@@ -226,7 +191,7 @@ async function getRemoteData() {
 
     for(let zona of opzioniZone)
     {
-      selectZona.appendChild(zona)
+      selZona.appendChild(zona)
     }
   }
 
