@@ -216,17 +216,17 @@ async function getRemoteData() {
     {
       if(!opzioniZone.includes(previsione._zoneid))
       {
-        opzioniZone.push(previsione._zoneid)
+        let opt = document.createElement("option")
+        opt.textContent = previsione._name
+        opt.value = previsione._zoneid
+        opzioniZone.push(opt)
       }
     }
     console.log(opzioniZone)
 
     for(let zona of opzioniZone)
     {
-      let opt = document.createElement("option")
-      opt.textContent = zona
-      opt.value = zona
-      selectZona.appendChild(opt)
+      selectZona.appendChild(zona)
     }
   }
 
