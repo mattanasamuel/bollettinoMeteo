@@ -8,7 +8,7 @@ var opzioniZone = []
 var bollettiniZone = []
 var contenitore = document.getElementById("previsioni")
 var intestazione = document.getElementById("intestazione")
-var 
+let nomeZona
 
 
 
@@ -25,6 +25,7 @@ async function getRemoteData() {
       console.error(`Errore reperimento strutture recettive: ${error}`);
     }
     console.log(forecast.previsioni.meteogrammi.meteogramma)
+    console.log(forecast)
     loadData();
     
     //(opzionale) caricamento dinamico delle zone
@@ -36,6 +37,7 @@ async function getRemoteData() {
   function loadData(){
     //riempimento zone dinamico
     loadOpzioni()
+    changeText()
     loadBollettini()
   }
 
@@ -58,10 +60,27 @@ async function getRemoteData() {
   function createSection(variable)
   {
     contenitore.innerHTML = ""
+    
+    let dataEmissione = document.createElement("p")
+    dataEmissione.innerHTML = "ultimo aggiornamento: "+ forecast.previsioni.data_emissione._date
+
+    let dataAggiornamento = document.createElement("p")
+    dataAggiornamento.innerHTML = "rilasciato il: " + forecast.previsioni.data_aggiornamento._date
+
+
+    contenitore.appendChild(dataEmissione)
+    contenitore.appendChild(dataAggiornamento)
+
+
     for(let previsione of variable.scadenza)
     {
       let div = document.createElement("div")
       contenitore.appendChild(div)
+
+      
+
+      
+
 
       let immagine = document.createElement("img")
       immagine.src = previsione.SIMBOLO.__text
@@ -195,12 +214,8 @@ async function getRemoteData() {
     }
   }
 
-
-  
-  
-  //carica le previsioni della zona selezionata
-  function loadForecast(){
-    //TODO
+  function changeText(){
+    intestazione.innerHTML = selZona.options[selZona.selectedIndex].textContent
   }
 
   getRemoteData();
